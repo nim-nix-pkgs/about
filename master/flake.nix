@@ -9,7 +9,7 @@
   
   inputs.src-about-master.flake = false;
   inputs.src-about-master.owner = "aleandros";
-  inputs.src-about-master.ref   = "refs/heads/master";
+  inputs.src-about-master.ref   = "master";
   inputs.src-about-master.repo  = "about";
   inputs.src-about-master.type  = "github";
   
