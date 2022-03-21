@@ -1,5 +1,5 @@
 {
-  description = ''Executable for finding information about programs in PATH DESCRIPTION'';
+  description = ''Executable for finding information about programs in PATH'';
 
   inputs.flakeNimbleLib.owner = "riinr";
   inputs.flakeNimbleLib.ref   = "master";
